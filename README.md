@@ -1,4 +1,4 @@
 # Nerdcore Soundboard
 SoundBoard for song you put inside. There is already some inside
 
-Le projet peux être réutiliser comme bon vous semble sans pour autant me créditer. Ce projet a était utilisé pour m'apprendre le C++.
+This porject is open source. You can use it howerver you like, i don't care. You don't need to credit me. This project wase just for me to learn C++.
